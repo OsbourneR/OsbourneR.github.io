@@ -84,7 +84,7 @@ th {
 }
 
 .photo-container img {
-	width: 250px;
+	max-width: 800px;
 	height: auto;
 	border-radius: 10%;
 	border: 1.5px solid grey;
