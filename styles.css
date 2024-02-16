@@ -98,7 +98,7 @@ th {
     margin-bottom: 20px; 
 }
 
-@media only screen and (max-width:600) {
+@media only screen and (max-width:600px) {
 	.photo-container {
 		flex-direction: column;
 		align-items: center;
